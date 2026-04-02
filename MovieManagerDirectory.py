@@ -102,7 +102,7 @@ def menu():
     while True:
         print("\n*** Movie Manager Directory ***")
         print("1. Add Movie")
-        print("2. View All Movies")
+        print("2. View Movies")
         print("3. Search Movie by Title")
         print("4. Update Movie")
         print("5. Delete Movie")
