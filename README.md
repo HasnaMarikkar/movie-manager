@@ -1,10 +1,6 @@
 A simple command-line app to manage your movie collection.
 
-How to Run
-```bash
-python movie_manager.py
-```
-What You Can Do
+Functions:
 - Add, view, search, update and delete movies
 - Each movie stores an ID, title, director, release year and genre
 
